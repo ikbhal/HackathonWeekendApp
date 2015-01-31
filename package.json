@@ -1,0 +1,25 @@
+{
+  "name": "HackathonWeekendApp",
+  "version": "1.0.0",
+  "description": "Create app for hackathonweekend. login",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ikbhal/HackathonWeekendApp.git"
+  },
+  "keywords": [
+    "hackathonweekend"
+  ],
+  "author": "Shaik Ikbhal Basha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ikbhal/HackathonWeekendApp/issues"
+  },
+  "homepage": "https://github.com/ikbhal/HackathonWeekendApp",
+  "dependencies": {
+    "express": "^4.11.1"
+  }
+}
